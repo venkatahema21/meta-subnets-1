@@ -1,5 +1,4 @@
-# ERC20 and Vault Contracts
-
+# Defi Empire
 ## Overview
 This repository contains the implementation of:
 1. **ERC20 Contract** - A standard ERC20 token contract compliant with the ERC20 specification.
